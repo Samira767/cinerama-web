@@ -9,9 +9,9 @@ const base =
   "inline-flex items-center justify-center gap-2 rounded-full font-semibold transition active:scale-[0.98] disabled:pointer-events-none disabled:opacity-40";
 
 const variantes: Record<Variante, string> = {
-  primario: "bg-mandarina-500 text-noche-950 hover:bg-mandarina-400",
-  secundario: "bg-noche-800 text-crema-50 ring-1 ring-noche-600 hover:bg-noche-700",
-  fantasma: "text-crema-100 hover:bg-noche-800",
+  primario: "bg-rojo-500 text-blanco-50 hover:bg-rojo-600 shadow-lg shadow-rojo-500/20",
+  secundario: "bg-noche-800 text-blanco-50 ring-1 ring-noche-600 hover:bg-noche-700",
+  fantasma: "text-blanco-100 hover:bg-noche-800",
 };
 
 const tamanos: Record<Tamano, string> = {

@@ -21,7 +21,7 @@ export function NavegacionEscritorio() {
           href={href}
           className={cn(
             "rounded-full px-4 py-2 text-sm font-medium transition",
-            activo(href) ? "bg-noche-800 text-crema-50" : "text-crema-300 hover:text-crema-50",
+            activo(href) ? "bg-noche-800 text-blanco-50" : "text-blanco-300 hover:text-blanco-50",
           )}
         >
           {etiqueta}
@@ -46,7 +46,7 @@ export function NavegacionMovil() {
               href={href}
               className={cn(
                 "flex flex-col items-center gap-1 py-2.5 text-[11px] font-medium transition",
-                activo(href) ? "text-mandarina-400" : "text-crema-400",
+                activo(href) ? "text-rojo-400" : "text-blanco-400",
               )}
             >
               <Icono className="size-5" aria-hidden />

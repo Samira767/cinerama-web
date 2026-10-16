@@ -2,6 +2,8 @@
 
 > **Prototipo conceptual – no oficial.** Propuesta de diseño independiente, sin relación
 > oficial con Cinerama. Películas, precios y funciones son simulados; ningún pago es real.
+>
+> Desarrollado por **Samira Sotelo Samanamu** y **Francis Vergara Solis**.
 
 Prototipo funcional de una web moderna para Cinerama: cartelera por sede, compra de entradas
 con elección de butacas, dulcería, pago simulado y entrada con QR, más un panel administrativo.
@@ -82,8 +84,8 @@ pasarela (Culqi / Niubiz / Mercado Pago) y validación del QR en puerta.
 ## Plan de etapas
 
 - [x] **0. Base:** identidad visual, layout, aviso de prototipo, modelo de datos, capa de datos mock
-- [ ] **1. Cartelera:** selector de sede, cartelera por fecha, próximos estrenos, ficha de película
+- [x] **1. Cartelera:** selector de sede, cartelera por fecha, próximos estrenos, ficha de película
 - [ ] **2. Compra:** entradas → butacas → dulcería → resumen → pago simulado → entrada con QR
-- [ ] **3. Sedes y promociones**
+- [x] **3. Sedes y promociones** (adelantada para tener la simulación completa)
 - [ ] **4. Panel administrativo:** login simulado y CRUD
 - [ ] **5. Reportes, pulido y publicación**

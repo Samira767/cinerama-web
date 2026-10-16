@@ -1,101 +1,308 @@
 [
   {
-    "id": "pel-ultimo-faro", "slug": "el-ultimo-faro", "titulo": "El Último Faro",
+    "id": "pel-ultimo-faro",
+    "slug": "el-ultimo-faro",
+    "titulo": "El Último Faro",
     "sinopsis": "Tras la desaparición de su padre, Lucía regresa a la caleta donde creció para hacerse cargo del viejo faro de la isla. Entre tormentas, secretos de pescadores y señales que nadie más parece ver, descubrirá que la luz del faro guarda algo más que barcos.",
-    "generos": ["Drama", "Suspenso"], "duracionMin": 112, "clasificacion": "+14",
-    "director": "Mariana Quispe", "reparto": ["Valeria Ríos", "Andrés Salazar", "Rosa Mendoza"],
-    "poster": "generado:faro", "trailerUrl": "https://www.youtube.com/embed/R6MlUcmOul8",
-    "estrenoEnDias": -12, "estado": "en_cartelera", "colorTema": "#1F6F8B",
-    "programacion": { "peso": 3, "tiene3D": false, "soloDoblada": false }
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "duracionMin": 112,
+    "clasificacion": "+14",
+    "director": "Mariana Quispe",
+    "reparto": [
+      "Valeria Ríos",
+      "Andrés Salazar",
+      "Rosa Mendoza"
+    ],
+    "poster": "generado:faro",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/WhWc3b3KhnY",
+    "estrenoEnDias": -12,
+    "estado": "en_cartelera",
+    "colorTema": "#1F6F8B",
+    "programacion": {
+      "peso": 3,
+      "tiene3D": false,
+      "soloDoblada": false
+    }
   },
   {
-    "id": "pel-galaxia-rota", "slug": "galaxia-rota", "titulo": "Galaxia Rota",
+    "id": "pel-galaxia-rota",
+    "slug": "galaxia-rota",
+    "titulo": "Galaxia Rota",
     "sinopsis": "En el año 2189, una tripulación de mineros espaciales queda varada en el borde de un agujero de gusano. Para volver a casa deberán cruzar una galaxia fracturada donde el tiempo avanza a distinta velocidad en cada planeta.",
-    "generos": ["Ciencia ficción", "Acción"], "duracionMin": 128, "clasificacion": "+14",
-    "director": "Tomás Ibarra", "reparto": ["Diego Villanueva", "Camila Torres", "Hiroshi Tanaka"],
-    "poster": "generado:planeta", "trailerUrl": "https://www.youtube.com/embed/R6MlUcmOul8",
-    "estrenoEnDias": -5, "estado": "en_cartelera", "colorTema": "#5B3FD9",
-    "programacion": { "peso": 5, "tiene3D": true, "soloDoblada": false }
+    "generos": [
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "duracionMin": 128,
+    "clasificacion": "+14",
+    "director": "Tomás Ibarra",
+    "reparto": [
+      "Diego Villanueva",
+      "Camila Torres",
+      "Hiroshi Tanaka"
+    ],
+    "poster": "generado:planeta",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/Y-rmzh0PI3c",
+    "estrenoEnDias": -5,
+    "estado": "en_cartelera",
+    "colorTema": "#5B3FD9",
+    "programacion": {
+      "peso": 5,
+      "tiene3D": true,
+      "soloDoblada": false
+    }
   },
   {
-    "id": "pel-pachamama", "slug": "pachamama-el-despertar", "titulo": "Pachamama: El Despertar",
+    "id": "pel-pachamama",
+    "slug": "pachamama-el-despertar",
+    "titulo": "Pachamama: El Despertar",
     "sinopsis": "Killa, una pequeña llama curiosa, emprende un viaje desde los Andes hasta la Amazonía para devolverle la voz a la Madre Tierra. Una aventura animada llena de música, amistad y paisajes del Perú.",
-    "generos": ["Animación", "Familiar", "Aventura"], "duracionMin": 95, "clasificacion": "APT",
-    "director": "Lucho Paredes", "reparto": ["Voces de Ximena Díaz", "Carlos Huamán"],
-    "poster": "generado:montana", "trailerUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ",
-    "estrenoEnDias": -3, "estado": "en_cartelera", "colorTema": "#E0892B",
-    "programacion": { "peso": 5, "tiene3D": true, "soloDoblada": true }
+    "generos": [
+      "Animación",
+      "Familiar",
+      "Aventura"
+    ],
+    "duracionMin": 95,
+    "clasificacion": "APT",
+    "director": "Lucho Paredes",
+    "reparto": [
+      "Voces de Ximena Díaz",
+      "Carlos Huamán"
+    ],
+    "poster": "generado:montana",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/SkVqJ1SGeL0",
+    "estrenoEnDias": -3,
+    "estado": "en_cartelera",
+    "colorTema": "#E0892B",
+    "programacion": {
+      "peso": 5,
+      "tiene3D": true,
+      "soloDoblada": true
+    }
   },
   {
-    "id": "pel-noche-callao", "slug": "noche-en-el-callao", "titulo": "Noche en el Callao",
+    "id": "pel-noche-callao",
+    "slug": "noche-en-el-callao",
+    "titulo": "Noche en el Callao",
     "sinopsis": "Un detective a punto de jubilarse recibe un último caso: el robo de un cargamento que nunca debió llegar al puerto. Tiene una sola noche para resolverlo antes de que la ciudad despierte.",
-    "generos": ["Policial", "Thriller"], "duracionMin": 105, "clasificacion": "+18",
-    "director": "Renato Cárdenas", "reparto": ["Miguel Aranda", "Lucía Paz", "Jorge Rivas"],
-    "poster": "generado:ciudad", "trailerUrl": "https://www.youtube.com/embed/R6MlUcmOul8",
-    "estrenoEnDias": -19, "estado": "en_cartelera", "colorTema": "#C2304A",
-    "programacion": { "peso": 2, "tiene3D": false, "soloDoblada": false }
+    "generos": [
+      "Policial",
+      "Thriller"
+    ],
+    "duracionMin": 105,
+    "clasificacion": "+18",
+    "director": "Renato Cárdenas",
+    "reparto": [
+      "Miguel Aranda",
+      "Lucía Paz",
+      "Jorge Rivas"
+    ],
+    "poster": "generado:ciudad",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/mN0zPOpADL4",
+    "estrenoEnDias": -19,
+    "estado": "en_cartelera",
+    "colorTema": "#C2304A",
+    "programacion": {
+      "peso": 2,
+      "tiene3D": false,
+      "soloDoblada": false
+    }
   },
   {
-    "id": "pel-chasquis", "slug": "los-chasquis-del-tiempo", "titulo": "Los Chasquis del Tiempo",
+    "id": "pel-chasquis",
+    "slug": "los-chasquis-del-tiempo",
+    "titulo": "Los Chasquis del Tiempo",
     "sinopsis": "Tres amigos encuentran un quipu mágico que los transporta a la época de los incas. Para volver al presente deberán entregar un mensaje urgente recorriendo el Qhapaq Ñan como verdaderos chasquis.",
-    "generos": ["Aventura", "Familiar", "Comedia"], "duracionMin": 101, "clasificacion": "APT",
-    "director": "Patricia Rojas", "reparto": ["Mateo León", "Sofía Chávez", "Bruno Gálvez"],
-    "poster": "generado:sol", "trailerUrl": "https://www.youtube.com/embed/eRsGyueVLvQ",
-    "estrenoEnDias": -9, "estado": "en_cartelera", "colorTema": "#D4A017",
-    "programacion": { "peso": 3, "tiene3D": false, "soloDoblada": true }
+    "generos": [
+      "Aventura",
+      "Familiar",
+      "Comedia"
+    ],
+    "duracionMin": 101,
+    "clasificacion": "APT",
+    "director": "Patricia Rojas",
+    "reparto": [
+      "Mateo León",
+      "Sofía Chávez",
+      "Bruno Gálvez"
+    ],
+    "poster": "generado:sol",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/eRsGyueVLvQ",
+    "estrenoEnDias": -9,
+    "estado": "en_cartelera",
+    "colorTema": "#D4A017",
+    "programacion": {
+      "peso": 3,
+      "tiene3D": false,
+      "soloDoblada": true
+    }
   },
   {
-    "id": "pel-corazon-cumbia", "slug": "corazon-de-cumbia", "titulo": "Corazón de Cumbia",
+    "id": "pel-corazon-cumbia",
+    "slug": "corazon-de-cumbia",
+    "titulo": "Corazón de Cumbia",
     "sinopsis": "Rocío sueña con cantar en la orquesta más famosa del norte. Cuando por fin consigue una audición, descubre que el guitarrista es su exnovio. Una comedia romántica con mucho ritmo.",
-    "generos": ["Comedia", "Romance", "Musical"], "duracionMin": 98, "clasificacion": "APT",
-    "director": "Gonzalo Vega", "reparto": ["Fiorella Campos", "Kevin Morales", "Doña Pocha Ruiz"],
-    "poster": "generado:musica", "trailerUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ",
-    "estrenoEnDias": -15, "estado": "en_cartelera", "colorTema": "#E8457C",
-    "programacion": { "peso": 2, "tiene3D": false, "soloDoblada": true }
+    "generos": [
+      "Comedia",
+      "Romance",
+      "Musical"
+    ],
+    "duracionMin": 98,
+    "clasificacion": "APT",
+    "director": "Gonzalo Vega",
+    "reparto": [
+      "Fiorella Campos",
+      "Kevin Morales",
+      "Doña Pocha Ruiz"
+    ],
+    "poster": "generado:musica",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ",
+    "estrenoEnDias": -15,
+    "estado": "en_cartelera",
+    "colorTema": "#E8457C",
+    "programacion": {
+      "peso": 2,
+      "tiene3D": false,
+      "soloDoblada": true
+    }
   },
   {
-    "id": "pel-casa-silencio", "slug": "la-casa-del-silencio", "titulo": "La Casa del Silencio",
+    "id": "pel-casa-silencio",
+    "slug": "la-casa-del-silencio",
+    "titulo": "La Casa del Silencio",
     "sinopsis": "Una familia se muda a una casona republicana en Barranco. Pronto descubren la regla que la anterior dueña dejó escrita en todas las paredes: nunca hagas ruido después de medianoche.",
-    "generos": ["Terror"], "duracionMin": 94, "clasificacion": "+18",
-    "director": "Sebastián Núñez", "reparto": ["Ana Lucía Prado", "Felipe Cornejo", "Mía Salas"],
-    "poster": "generado:casa", "trailerUrl": "https://www.youtube.com/embed/eRsGyueVLvQ",
-    "estrenoEnDias": -2, "estado": "en_cartelera", "colorTema": "#4A5A3C",
-    "programacion": { "peso": 3, "tiene3D": false, "soloDoblada": false }
+    "generos": [
+      "Terror"
+    ],
+    "duracionMin": 94,
+    "clasificacion": "+18",
+    "director": "Sebastián Núñez",
+    "reparto": [
+      "Ana Lucía Prado",
+      "Felipe Cornejo",
+      "Mía Salas"
+    ],
+    "poster": "generado:casa",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/eRsGyueVLvQ",
+    "estrenoEnDias": -2,
+    "estado": "en_cartelera",
+    "colorTema": "#4A5A3C",
+    "programacion": {
+      "peso": 3,
+      "tiene3D": false,
+      "soloDoblada": false
+    }
   },
   {
-    "id": "pel-velocidad-maxima", "slug": "velocidad-maxima-furia", "titulo": "Velocidad Máxima: Furia",
+    "id": "pel-velocidad-maxima",
+    "slug": "velocidad-maxima-furia",
+    "titulo": "Velocidad Máxima: Furia",
     "sinopsis": "Un exconductor de carreras clandestinas es obligado a volver a las pistas para salvar a su hermano. Persecuciones imposibles por la Panamericana y el desierto de Ica.",
-    "generos": ["Acción"], "duracionMin": 121, "clasificacion": "+14",
-    "director": "Iván Montoya", "reparto": ["Rodrigo Saavedra", "Natalia Ugaz", "Marco Bellido"],
-    "poster": "generado:velocidad", "trailerUrl": "https://www.youtube.com/embed/R6MlUcmOul8",
-    "estrenoEnDias": -7, "estado": "en_cartelera", "colorTema": "#F25C05",
-    "programacion": { "peso": 4, "tiene3D": true, "soloDoblada": false }
+    "generos": [
+      "Acción"
+    ],
+    "duracionMin": 121,
+    "clasificacion": "+14",
+    "director": "Iván Montoya",
+    "reparto": [
+      "Rodrigo Saavedra",
+      "Natalia Ugaz",
+      "Marco Bellido"
+    ],
+    "poster": "generado:velocidad",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/R6MlUcmOul8",
+    "estrenoEnDias": -7,
+    "estado": "en_cartelera",
+    "colorTema": "#F25C05",
+    "programacion": {
+      "peso": 4,
+      "tiene3D": true,
+      "soloDoblada": false
+    }
   },
   {
-    "id": "pel-risas-familia-2", "slug": "risas-en-familia-2", "titulo": "Risas en Familia 2",
+    "id": "pel-risas-familia-2",
+    "slug": "risas-en-familia-2",
+    "titulo": "Risas en Familia 2",
     "sinopsis": "Los Gutiérrez vuelven, y esta vez se van de viaje todos juntos a Máncora. Lo que debía ser una semana de playa se convierte en el caos más divertido del verano.",
-    "generos": ["Comedia", "Familiar"], "duracionMin": 99, "clasificacion": "APT",
-    "director": "Gonzalo Vega", "reparto": ["Kevin Morales", "Teresa Lozano", "Pepe Alcántara"],
-    "poster": "generado:familia", "trailerUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ",
-    "estrenoEnDias": 6, "estado": "proximamente", "colorTema": "#2BA84A",
-    "programacion": { "peso": 0, "tiene3D": false, "soloDoblada": true }
+    "generos": [
+      "Comedia",
+      "Familiar"
+    ],
+    "duracionMin": 99,
+    "clasificacion": "APT",
+    "director": "Gonzalo Vega",
+    "reparto": [
+      "Kevin Morales",
+      "Teresa Lozano",
+      "Pepe Alcántara"
+    ],
+    "poster": "generado:familia",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ",
+    "estrenoEnDias": 6,
+    "estado": "proximamente",
+    "colorTema": "#2BA84A",
+    "programacion": {
+      "peso": 0,
+      "tiene3D": false,
+      "soloDoblada": true
+    }
   },
   {
-    "id": "pel-amazonia-salvaje", "slug": "amazonia-salvaje", "titulo": "Amazonía Salvaje",
+    "id": "pel-amazonia-salvaje",
+    "slug": "amazonia-salvaje",
+    "titulo": "Amazonía Salvaje",
     "sinopsis": "Un documental de aventura que sigue durante un año la vida de un jaguar, una familia de nutrias gigantes y una comunidad que protege el bosque en Madre de Dios.",
-    "generos": ["Documental", "Aventura"], "duracionMin": 88, "clasificacion": "APT",
-    "director": "Elena Vargas", "reparto": ["Narración de Javier Soto"],
-    "poster": "generado:selva", "trailerUrl": "https://www.youtube.com/embed/WhWc3b3KhnY",
-    "estrenoEnDias": 13, "estado": "proximamente", "colorTema": "#1E8A5F",
-    "programacion": { "peso": 0, "tiene3D": true, "soloDoblada": true }
+    "generos": [
+      "Documental",
+      "Aventura"
+    ],
+    "duracionMin": 88,
+    "clasificacion": "APT",
+    "director": "Elena Vargas",
+    "reparto": [
+      "Narración de Javier Soto"
+    ],
+    "poster": "generado:selva",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/WhWc3b3KhnY",
+    "estrenoEnDias": 13,
+    "estado": "proximamente",
+    "colorTema": "#1E8A5F",
+    "programacion": {
+      "peso": 0,
+      "tiene3D": true,
+      "soloDoblada": true
+    }
   },
   {
-    "id": "pel-guardian-kuelap", "slug": "el-guardian-de-kuelap", "titulo": "El Guardián de Kuélap",
+    "id": "pel-guardian-kuelap",
+    "slug": "el-guardian-de-kuelap",
+    "titulo": "El Guardián de Kuélap",
     "sinopsis": "Una arqueóloga y un guía local despiertan sin querer al antiguo guardián de la fortaleza chachapoyas. Ahora deberán proteger su secreto de quienes quieren saquearla.",
-    "generos": ["Aventura", "Fantasía"], "duracionMin": 117, "clasificacion": "+14",
-    "director": "Mariana Quispe", "reparto": ["Valeria Ríos", "Ernesto Pinedo", "Lía Tello"],
-    "poster": "generado:fortaleza", "trailerUrl": "https://www.youtube.com/embed/eRsGyueVLvQ",
-    "estrenoEnDias": 20, "estado": "proximamente", "colorTema": "#8A5A2B",
-    "programacion": { "peso": 0, "tiene3D": true, "soloDoblada": false }
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "duracionMin": 117,
+    "clasificacion": "+14",
+    "director": "Mariana Quispe",
+    "reparto": [
+      "Valeria Ríos",
+      "Ernesto Pinedo",
+      "Lía Tello"
+    ],
+    "poster": "generado:fortaleza",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/Y-rmzh0PI3c",
+    "estrenoEnDias": 20,
+    "estado": "proximamente",
+    "colorTema": "#8A5A2B",
+    "programacion": {
+      "peso": 0,
+      "tiene3D": true,
+      "soloDoblada": false
+    }
   }
 ]

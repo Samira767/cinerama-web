@@ -1,36 +1,39 @@
 @import "tailwindcss";
 
 /*
- * Identidad visual del prototipo Cinerama
+ * Identidad visual Cinerama — paleta "Bandera"
  * ─────────────────────────────────────────
- * Noche: fondo cálido de sala oscura.
- * Mandarina: acento principal (acciones, selección).
- * Maíz: acento secundario (precio rebajado, dulcería, avisos).
- * Crema: texto.
+ * Rojo #C8102E: color de marca y acción principal (botones, selección).
+ * Negro #121212: fondo de sala oscura.
+ * Blanco #FFFFFF: texto.
+ * Oro #FFB800: acento (precio rebajado, dulcería, estrenos).
+ *
+ * Los tonos 300/400 del rojo son variantes más claras para texto sobre fondo
+ * negro, donde el rojo puro no tiene contraste suficiente.
  */
 @theme {
-  --color-noche-950: #0e0c0b;
-  --color-noche-900: #161311;
-  --color-noche-850: #1b1714;
-  --color-noche-800: #221d1a;
-  --color-noche-700: #2f2824;
-  --color-noche-600: #3f3631;
-  --color-noche-500: #6e625a;
+  --color-noche-950: #121212;
+  --color-noche-900: #1a1a1a;
+  --color-noche-850: #1f1f1f;
+  --color-noche-800: #262626;
+  --color-noche-700: #333333;
+  --color-noche-600: #474747;
+  --color-noche-500: #737373;
 
-  --color-crema-50: #fbf8f3;
-  --color-crema-100: #f4ede4;
-  --color-crema-300: #cbbdb0;
-  --color-crema-400: #a8998c;
+  --color-blanco-50: #ffffff;
+  --color-blanco-100: #f2f2f2;
+  --color-blanco-300: #c7c7c7;
+  --color-blanco-400: #a3a3a3;
 
-  --color-mandarina-300: #ffa784;
-  --color-mandarina-400: #ff8a62;
-  --color-mandarina-500: #ff6b3d;
-  --color-mandarina-600: #e9522a;
-  --color-mandarina-950: #2a120a;
+  --color-rojo-300: #f7788a;
+  --color-rojo-400: #ef3b57;
+  --color-rojo-500: #c8102e;
+  --color-rojo-600: #a50d26;
+  --color-rojo-950: #2b0a10;
 
-  --color-maiz-300: #fbd97e;
-  --color-maiz-400: #f7c548;
-  --color-maiz-950: #2a2108;
+  --color-oro-300: #ffd466;
+  --color-oro-400: #ffb800;
+  --color-oro-950: #2b2000;
 
   --color-exito: #3dd68c;
   --color-error: #ff5a5f;
@@ -62,7 +65,7 @@
 
   body {
     background: var(--color-noche-950);
-    color: var(--color-crema-100);
+    color: var(--color-blanco-100);
     font-family: var(--font-sans), system-ui, sans-serif;
   }
 
@@ -74,13 +77,13 @@
   }
 
   :focus-visible {
-    outline: 2px solid var(--color-mandarina-400);
+    outline: 2px solid var(--color-rojo-400);
     outline-offset: 2px;
   }
 
   ::selection {
-    background: var(--color-mandarina-500);
-    color: var(--color-noche-950);
+    background: var(--color-rojo-500);
+    color: var(--color-blanco-50);
   }
 }
 
@@ -98,8 +101,8 @@
 @utility franja-prototipo {
   background-image: repeating-linear-gradient(
     -45deg,
-    var(--color-maiz-950) 0 10px,
-    #221a06 10px 20px
+    var(--color-oro-950) 0 10px,
+    #211900 10px 20px
   );
 }
 

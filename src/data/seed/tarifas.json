@@ -288,100 +288,196 @@
     "precio": 10
   },
   {
-    "id": "tar-piura-2d-regular-general",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-regular-general",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "general",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 11
   },
   {
-    "id": "tar-piura-2d-regular-nino",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-regular-nino",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "nino",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 9
   },
   {
-    "id": "tar-piura-2d-regular-adulto_mayor",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-regular-adulto_mayor",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 8
   },
   {
-    "id": "tar-piura-2d-rebajado-general",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-rebajado-general",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "general",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-piura-2d-rebajado-nino",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-rebajado-nino",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "nino",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-piura-2d-rebajado-adulto_mayor",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-2d-rebajado-adulto_mayor",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-piura-3d-regular-general",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-regular-general",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "general",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 15
   },
   {
-    "id": "tar-piura-3d-regular-nino",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-regular-nino",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "nino",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 13
   },
   {
-    "id": "tar-piura-3d-regular-adulto_mayor",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-regular-adulto_mayor",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 12
   },
   {
-    "id": "tar-piura-3d-rebajado-general",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-rebajado-general",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "general",
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 11
   },
   {
-    "id": "tar-piura-3d-rebajado-nino",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-rebajado-nino",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "nino",
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 11
   },
   {
-    "id": "tar-piura-3d-rebajado-adulto_mayor",
-    "sedeId": "sede-piura",
+    "id": "tar-ica-megaplaza-3d-rebajado-adulto_mayor",
+    "sedeId": "sede-ica-megaplaza",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 11
+  },
+  {
+    "id": "tar-ica-sol-2d-regular-general",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 10
+  },
+  {
+    "id": "tar-ica-sol-2d-regular-nino",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 8
+  },
+  {
+    "id": "tar-ica-sol-2d-regular-adulto_mayor",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-ica-sol-2d-rebajado-general",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 6
+  },
+  {
+    "id": "tar-ica-sol-2d-rebajado-nino",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 6
+  },
+  {
+    "id": "tar-ica-sol-2d-rebajado-adulto_mayor",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 6
+  },
+  {
+    "id": "tar-ica-sol-3d-regular-general",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 14
+  },
+  {
+    "id": "tar-ica-sol-3d-regular-nino",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 12
+  },
+  {
+    "id": "tar-ica-sol-3d-regular-adulto_mayor",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-ica-sol-3d-rebajado-general",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 10
+  },
+  {
+    "id": "tar-ica-sol-3d-rebajado-nino",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 10
+  },
+  {
+    "id": "tar-ica-sol-3d-rebajado-adulto_mayor",
+    "sedeId": "sede-ica-sol",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 10
   },
   {
     "id": "tar-chimbote-2d-regular-general",
@@ -480,288 +576,96 @@
     "precio": 10
   },
   {
-    "id": "tar-cajamarca-2d-regular-general",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-regular-general",
+    "sedeId": "sede-piura",
     "tipoEntrada": "general",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 11
   },
   {
-    "id": "tar-cajamarca-2d-regular-nino",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-regular-nino",
+    "sedeId": "sede-piura",
     "tipoEntrada": "nino",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 9
   },
   {
-    "id": "tar-cajamarca-2d-regular-adulto_mayor",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-regular-adulto_mayor",
+    "sedeId": "sede-piura",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "regular",
     "formato": "2D",
     "precio": 8
   },
   {
-    "id": "tar-cajamarca-2d-rebajado-general",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-rebajado-general",
+    "sedeId": "sede-piura",
     "tipoEntrada": "general",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-cajamarca-2d-rebajado-nino",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-rebajado-nino",
+    "sedeId": "sede-piura",
     "tipoEntrada": "nino",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-cajamarca-2d-rebajado-adulto_mayor",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-2d-rebajado-adulto_mayor",
+    "sedeId": "sede-piura",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "rebajado",
     "formato": "2D",
     "precio": 7
   },
   {
-    "id": "tar-cajamarca-3d-regular-general",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-3d-regular-general",
+    "sedeId": "sede-piura",
     "tipoEntrada": "general",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 15
   },
   {
-    "id": "tar-cajamarca-3d-regular-nino",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-3d-regular-nino",
+    "sedeId": "sede-piura",
     "tipoEntrada": "nino",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 13
   },
   {
-    "id": "tar-cajamarca-3d-regular-adulto_mayor",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-3d-regular-adulto_mayor",
+    "sedeId": "sede-piura",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "regular",
     "formato": "3D",
     "precio": 12
   },
   {
-    "id": "tar-cajamarca-3d-rebajado-general",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-3d-rebajado-general",
+    "sedeId": "sede-piura",
     "tipoEntrada": "general",
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 11
   },
   {
-    "id": "tar-cajamarca-3d-rebajado-nino",
-    "sedeId": "sede-cajamarca",
+    "id": "tar-piura-3d-rebajado-nino",
+    "sedeId": "sede-piura",
     "tipoEntrada": "nino",
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 11
   },
   {
-    "id": "tar-cajamarca-3d-rebajado-adulto_mayor",
-    "sedeId": "sede-cajamarca",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 11
-  },
-  {
-    "id": "tar-ica-2d-regular-general",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "general",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 10
-  },
-  {
-    "id": "tar-ica-2d-regular-nino",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "nino",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 8
-  },
-  {
-    "id": "tar-ica-2d-regular-adulto_mayor",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 7
-  },
-  {
-    "id": "tar-ica-2d-rebajado-general",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "general",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 6
-  },
-  {
-    "id": "tar-ica-2d-rebajado-nino",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "nino",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 6
-  },
-  {
-    "id": "tar-ica-2d-rebajado-adulto_mayor",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 6
-  },
-  {
-    "id": "tar-ica-3d-regular-general",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "general",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 14
-  },
-  {
-    "id": "tar-ica-3d-regular-nino",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "nino",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 12
-  },
-  {
-    "id": "tar-ica-3d-regular-adulto_mayor",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 11
-  },
-  {
-    "id": "tar-ica-3d-rebajado-general",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "general",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 10
-  },
-  {
-    "id": "tar-ica-3d-rebajado-nino",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "nino",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 10
-  },
-  {
-    "id": "tar-ica-3d-rebajado-adulto_mayor",
-    "sedeId": "sede-ica",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 10
-  },
-  {
-    "id": "tar-cusco-2d-regular-general",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "general",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 12
-  },
-  {
-    "id": "tar-cusco-2d-regular-nino",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "nino",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 10
-  },
-  {
-    "id": "tar-cusco-2d-regular-adulto_mayor",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "regular",
-    "formato": "2D",
-    "precio": 9
-  },
-  {
-    "id": "tar-cusco-2d-rebajado-general",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "general",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 7
-  },
-  {
-    "id": "tar-cusco-2d-rebajado-nino",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "nino",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 7
-  },
-  {
-    "id": "tar-cusco-2d-rebajado-adulto_mayor",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "rebajado",
-    "formato": "2D",
-    "precio": 7
-  },
-  {
-    "id": "tar-cusco-3d-regular-general",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "general",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 16
-  },
-  {
-    "id": "tar-cusco-3d-regular-nino",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "nino",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 14
-  },
-  {
-    "id": "tar-cusco-3d-regular-adulto_mayor",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "adulto_mayor",
-    "tipoDia": "regular",
-    "formato": "3D",
-    "precio": 13
-  },
-  {
-    "id": "tar-cusco-3d-rebajado-general",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "general",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 11
-  },
-  {
-    "id": "tar-cusco-3d-rebajado-nino",
-    "sedeId": "sede-cusco",
-    "tipoEntrada": "nino",
-    "tipoDia": "rebajado",
-    "formato": "3D",
-    "precio": 11
-  },
-  {
-    "id": "tar-cusco-3d-rebajado-adulto_mayor",
-    "sedeId": "sede-cusco",
+    "id": "tar-piura-3d-rebajado-adulto_mayor",
+    "sedeId": "sede-piura",
     "tipoEntrada": "adulto_mayor",
     "tipoDia": "rebajado",
     "formato": "3D",
@@ -958,5 +862,197 @@
     "tipoDia": "rebajado",
     "formato": "3D",
     "precio": 9
+  },
+  {
+    "id": "tar-cajamarca-2d-regular-general",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cajamarca-2d-regular-nino",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 9
+  },
+  {
+    "id": "tar-cajamarca-2d-regular-adulto_mayor",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 8
+  },
+  {
+    "id": "tar-cajamarca-2d-rebajado-general",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cajamarca-2d-rebajado-nino",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cajamarca-2d-rebajado-adulto_mayor",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cajamarca-3d-regular-general",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 15
+  },
+  {
+    "id": "tar-cajamarca-3d-regular-nino",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 13
+  },
+  {
+    "id": "tar-cajamarca-3d-regular-adulto_mayor",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 12
+  },
+  {
+    "id": "tar-cajamarca-3d-rebajado-general",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cajamarca-3d-rebajado-nino",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cajamarca-3d-rebajado-adulto_mayor",
+    "sedeId": "sede-cajamarca",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cusco-2d-regular-general",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 12
+  },
+  {
+    "id": "tar-cusco-2d-regular-nino",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 10
+  },
+  {
+    "id": "tar-cusco-2d-regular-adulto_mayor",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "2D",
+    "precio": 9
+  },
+  {
+    "id": "tar-cusco-2d-rebajado-general",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cusco-2d-rebajado-nino",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cusco-2d-rebajado-adulto_mayor",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "2D",
+    "precio": 7
+  },
+  {
+    "id": "tar-cusco-3d-regular-general",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "general",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 16
+  },
+  {
+    "id": "tar-cusco-3d-regular-nino",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "nino",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 14
+  },
+  {
+    "id": "tar-cusco-3d-regular-adulto_mayor",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "regular",
+    "formato": "3D",
+    "precio": 13
+  },
+  {
+    "id": "tar-cusco-3d-rebajado-general",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "general",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cusco-3d-rebajado-nino",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "nino",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
+  },
+  {
+    "id": "tar-cusco-3d-rebajado-adulto_mayor",
+    "sedeId": "sede-cusco",
+    "tipoEntrada": "adulto_mayor",
+    "tipoDia": "rebajado",
+    "formato": "3D",
+    "precio": 11
   }
 ]

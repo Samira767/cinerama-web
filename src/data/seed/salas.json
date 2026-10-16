@@ -234,8 +234,8 @@
     ]
   },
   {
-    "id": "sala-piura-1",
-    "sedeId": "sede-piura",
+    "id": "sala-ica-megaplaza-1",
+    "sedeId": "sede-ica-megaplaza",
     "nombre": "Sala 1",
     "layout": [
       "AAAAA_AAAAAAAAAA_AAAAA",
@@ -253,8 +253,8 @@
     ]
   },
   {
-    "id": "sala-piura-2",
-    "sedeId": "sede-piura",
+    "id": "sala-ica-megaplaza-2",
+    "sedeId": "sede-ica-megaplaza",
     "nombre": "Sala 2",
     "layout": [
       "AAAA_AAAAAAAA_AAAA",
@@ -270,8 +270,8 @@
     ]
   },
   {
-    "id": "sala-piura-3",
-    "sedeId": "sede-piura",
+    "id": "sala-ica-megaplaza-3",
+    "sedeId": "sede-ica-megaplaza",
     "nombre": "Sala 3",
     "layout": [
       "AAAA_AAAAAAAA_AAAA",
@@ -287,8 +287,76 @@
     ]
   },
   {
-    "id": "sala-piura-4",
-    "sedeId": "sede-piura",
+    "id": "sala-ica-megaplaza-4",
+    "sedeId": "sede-ica-megaplaza",
+    "nombre": "Sala 4",
+    "layout": [
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "D___AAAAAA___D"
+    ]
+  },
+  {
+    "id": "sala-ica-sol-1",
+    "sedeId": "sede-ica-sol",
+    "nombre": "Sala 1",
+    "layout": [
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "DD____AAAAAAAAAA____DD"
+    ]
+  },
+  {
+    "id": "sala-ica-sol-2",
+    "sedeId": "sede-ica-sol",
+    "nombre": "Sala 2",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-ica-sol-3",
+    "sedeId": "sede-ica-sol",
+    "nombre": "Sala 3",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-ica-sol-4",
+    "sedeId": "sede-ica-sol",
     "nombre": "Sala 4",
     "layout": [
       "AAA_AAAAAA_AAA",
@@ -370,8 +438,8 @@
     ]
   },
   {
-    "id": "sala-cajamarca-1",
-    "sedeId": "sede-cajamarca",
+    "id": "sala-piura-1",
+    "sedeId": "sede-piura",
     "nombre": "Sala 1",
     "layout": [
       "AAAAA_AAAAAAAAAA_AAAAA",
@@ -389,8 +457,8 @@
     ]
   },
   {
-    "id": "sala-cajamarca-2",
-    "sedeId": "sede-cajamarca",
+    "id": "sala-piura-2",
+    "sedeId": "sede-piura",
     "nombre": "Sala 2",
     "layout": [
       "AAAA_AAAAAAAA_AAAA",
@@ -406,8 +474,8 @@
     ]
   },
   {
-    "id": "sala-cajamarca-3",
-    "sedeId": "sede-cajamarca",
+    "id": "sala-piura-3",
+    "sedeId": "sede-piura",
     "nombre": "Sala 3",
     "layout": [
       "AAAA_AAAAAAAA_AAAA",
@@ -423,8 +491,8 @@
     ]
   },
   {
-    "id": "sala-cajamarca-4",
-    "sedeId": "sede-cajamarca",
+    "id": "sala-piura-4",
+    "sedeId": "sede-piura",
     "nombre": "Sala 4",
     "layout": [
       "AAA_AAAAAA_AAA",
@@ -435,127 +503,6 @@
       "AAA_AAAAAA_AAA",
       "AAA_AAAAAA_AAA",
       "D___AAAAAA___D"
-    ]
-  },
-  {
-    "id": "sala-ica-1",
-    "sedeId": "sede-ica",
-    "nombre": "Sala 1",
-    "layout": [
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "DD____AAAAAAAAAA____DD"
-    ]
-  },
-  {
-    "id": "sala-ica-2",
-    "sedeId": "sede-ica",
-    "nombre": "Sala 2",
-    "layout": [
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "DD___AAAAAAAA___DD"
-    ]
-  },
-  {
-    "id": "sala-ica-3",
-    "sedeId": "sede-ica",
-    "nombre": "Sala 3",
-    "layout": [
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "DD___AAAAAAAA___DD"
-    ]
-  },
-  {
-    "id": "sala-ica-4",
-    "sedeId": "sede-ica",
-    "nombre": "Sala 4",
-    "layout": [
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "AAA_AAAAAA_AAA",
-      "D___AAAAAA___D"
-    ]
-  },
-  {
-    "id": "sala-cusco-1",
-    "sedeId": "sede-cusco",
-    "nombre": "Sala 1",
-    "layout": [
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "AAAAA_AAAAAAAAAA_AAAAA",
-      "DD____AAAAAAAAAA____DD"
-    ]
-  },
-  {
-    "id": "sala-cusco-2",
-    "sedeId": "sede-cusco",
-    "nombre": "Sala 2",
-    "layout": [
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "DD___AAAAAAAA___DD"
-    ]
-  },
-  {
-    "id": "sala-cusco-3",
-    "sedeId": "sede-cusco",
-    "nombre": "Sala 3",
-    "layout": [
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "AAAA_AAAAAAAA_AAAA",
-      "DD___AAAAAAAA___DD"
     ]
   },
   {
@@ -650,6 +597,127 @@
   {
     "id": "sala-moyobamba-3",
     "sedeId": "sede-moyobamba",
+    "nombre": "Sala 3",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-cajamarca-1",
+    "sedeId": "sede-cajamarca",
+    "nombre": "Sala 1",
+    "layout": [
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "DD____AAAAAAAAAA____DD"
+    ]
+  },
+  {
+    "id": "sala-cajamarca-2",
+    "sedeId": "sede-cajamarca",
+    "nombre": "Sala 2",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-cajamarca-3",
+    "sedeId": "sede-cajamarca",
+    "nombre": "Sala 3",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-cajamarca-4",
+    "sedeId": "sede-cajamarca",
+    "nombre": "Sala 4",
+    "layout": [
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "AAA_AAAAAA_AAA",
+      "D___AAAAAA___D"
+    ]
+  },
+  {
+    "id": "sala-cusco-1",
+    "sedeId": "sede-cusco",
+    "nombre": "Sala 1",
+    "layout": [
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "AAAAA_AAAAAAAAAA_AAAAA",
+      "DD____AAAAAAAAAA____DD"
+    ]
+  },
+  {
+    "id": "sala-cusco-2",
+    "sedeId": "sede-cusco",
+    "nombre": "Sala 2",
+    "layout": [
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "AAAA_AAAAAAAA_AAAA",
+      "DD___AAAAAAAA___DD"
+    ]
+  },
+  {
+    "id": "sala-cusco-3",
+    "sedeId": "sede-cusco",
     "nombre": "Sala 3",
     "layout": [
       "AAAA_AAAAAAAA_AAAA",

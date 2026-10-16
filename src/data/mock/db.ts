@@ -7,7 +7,8 @@ import { completarProgramacion, crearSemilla, type BaseDatos } from "../seed";
 import { hoy } from "@/lib/fechas";
 
 const CLAVE = "cinerama-demo-db";
-const VERSION_ESQUEMA = 1;
+// Subir al cambiar los datos semilla: fuerza a recargar la semilla en los navegadores.
+const VERSION_ESQUEMA = 2;
 
 interface Almacenado {
   version: number;

@@ -1,0 +1,15 @@
+[
+  { "id": "prod-combo-personal", "nombre": "Combo Personal", "descripcion": "Canchita salada mediana + gaseosa mediana", "categoria": "combo", "precio": 18.9, "imagen": "combo", "destacado": true, "sedesDisponibles": "todas" },
+  { "id": "prod-combo-pareja", "nombre": "Combo Pareja", "descripcion": "Canchita gigante + 2 gaseosas medianas", "categoria": "combo", "precio": 29.9, "imagen": "combo", "destacado": true, "sedesDisponibles": "todas" },
+  { "id": "prod-combo-familiar", "nombre": "Combo Familiar", "descripcion": "2 canchitas gigantes + 4 gaseosas medianas + nachos", "categoria": "combo", "precio": 52.9, "imagen": "combo", "destacado": true, "sedesDisponibles": "todas" },
+  { "id": "prod-combo-nino", "nombre": "Combo Niño", "descripcion": "Canchita chica + jugo + chocolate", "categoria": "combo", "precio": 14.9, "imagen": "combo", "sedesDisponibles": "todas" },
+  { "id": "prod-canchita-salada-m", "nombre": "Canchita salada mediana", "descripcion": "Recién hecha, con mantequilla", "categoria": "canchita", "precio": 10.9, "imagen": "canchita", "sedesDisponibles": "todas" },
+  { "id": "prod-canchita-salada-g", "nombre": "Canchita salada gigante", "descripcion": "Para compartir (o no)", "categoria": "canchita", "precio": 13.9, "imagen": "canchita", "sedesDisponibles": "todas" },
+  { "id": "prod-canchita-dulce-g", "nombre": "Canchita dulce gigante", "descripcion": "Acaramelada", "categoria": "canchita", "precio": 14.9, "imagen": "canchita", "sedesDisponibles": "todas" },
+  { "id": "prod-gaseosa-m", "nombre": "Gaseosa mediana", "descripcion": "32 oz, sabores a elección", "categoria": "bebida", "precio": 7.9, "imagen": "bebida", "sedesDisponibles": "todas" },
+  { "id": "prod-chicha", "nombre": "Chicha morada", "descripcion": "Vaso de 16 oz", "categoria": "bebida", "precio": 6.9, "imagen": "bebida", "sedesDisponibles": "todas" },
+  { "id": "prod-agua", "nombre": "Agua sin gas", "descripcion": "Botella 625 ml", "categoria": "bebida", "precio": 4.5, "imagen": "bebida", "sedesDisponibles": "todas" },
+  { "id": "prod-nachos", "nombre": "Nachos con queso", "descripcion": "Con jalapeños opcionales", "categoria": "snack", "precio": 12.9, "imagen": "snack", "sedesDisponibles": "todas" },
+  { "id": "prod-hotdog", "nombre": "Hot dog clásico", "descripcion": "Con papitas al hilo", "categoria": "snack", "precio": 9.9, "imagen": "snack", "sedesDisponibles": "todas" },
+  { "id": "prod-chocolate", "nombre": "Chocolate", "descripcion": "Barra de 45 g", "categoria": "snack", "precio": 4.9, "imagen": "snack", "sedesDisponibles": "todas" }
+]
